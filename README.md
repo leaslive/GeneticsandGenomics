@@ -7,7 +7,7 @@ Download the following two files from Moodle:
 genotypes.vcf
 annotations.txt
 
-In the project’s root directory (the directory that contains analysis.ipynb), create a new folder named: data
+In the project’s root directory (the directory that contains analysis.ipynb), create a new folder named data.
 The directory structure should look like this:
 
 project_root/
