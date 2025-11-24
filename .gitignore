@@ -1,0 +1,6 @@
+data/
+*.vcf
+*.vcf.gz
+*.txt
+*.tsv
+*.csv
